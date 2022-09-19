@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Rikatemu
 - 👀 I’m interested in procedural generation and space.
 - 🌱 I’m currently learning Rust.
-- 🌌 I’m looking to collaborate on a procedural universe.
